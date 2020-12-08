@@ -1,4 +1,4 @@
-#LibreNMS 2 MRemoteNG
+# LibreNMS 2 MRemoteNG
 
 This scripts grabs a list of all locations in LibreNMS and creates a MRemoteNG Connection File. 
 You can then import this file into MRemoteNG.
